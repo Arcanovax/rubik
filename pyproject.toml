@@ -1,0 +1,11 @@
+[project]
+name = "rubik"
+version = "1.0.0"
+description = "Rubik s cube"
+requires-python = ">=3.10"
+dependencies = [
+    "flake8>=7.3.0",
+    "mypy>=1.20.1",
+    "ursina>=7.0.0",
+]
+
